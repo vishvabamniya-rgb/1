@@ -1,0 +1,11 @@
+*.mp4
+*.mkv
+*.pdf
+*.session
+*.session-journal
+__pycache__/
+*.pyc
+bot.log
+logs.txt
+*.txt.zip
+downloads/
